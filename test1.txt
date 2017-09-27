@@ -1,4 +1,3 @@
 <<<<<<< HEAD
-=======
 A sentence and a quarter. Another one.
 >>>>>>> 51723564458bb8e7e8daecc0464874dfd83c53cd
